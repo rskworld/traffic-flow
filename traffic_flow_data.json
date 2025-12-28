@@ -1,0 +1,632 @@
+[
+  {
+    "timestamp": "2026-01-01 00:00:00",
+    "location": "Downtown",
+    "vehicle_count": 120,
+    "avg_speed_kmh": 65,
+    "congestion_level": "Low",
+    "road_type": "Urban",
+    "direction": "North"
+  },
+  {
+    "timestamp": "2026-01-01 04:00:00",
+    "location": "Downtown",
+    "vehicle_count": 80,
+    "avg_speed_kmh": 70,
+    "congestion_level": "Low",
+    "road_type": "Urban",
+    "direction": "North"
+  },
+  {
+    "timestamp": "2026-01-01 08:00:00",
+    "location": "Highway",
+    "vehicle_count": 450,
+    "avg_speed_kmh": 35,
+    "congestion_level": "High",
+    "road_type": "Highway",
+    "direction": "East"
+  },
+  {
+    "timestamp": "2026-01-01 12:00:00",
+    "location": "City Center",
+    "vehicle_count": 380,
+    "avg_speed_kmh": 40,
+    "congestion_level": "Medium",
+    "road_type": "Urban",
+    "direction": "South"
+  },
+  {
+    "timestamp": "2026-01-01 16:00:00",
+    "location": "Highway",
+    "vehicle_count": 520,
+    "avg_speed_kmh": 30,
+    "congestion_level": "High",
+    "road_type": "Highway",
+    "direction": "West"
+  },
+  {
+    "timestamp": "2026-01-01 20:00:00",
+    "location": "Suburbs",
+    "vehicle_count": 400,
+    "avg_speed_kmh": 45,
+    "congestion_level": "Medium",
+    "road_type": "Suburban",
+    "direction": "North"
+  },
+  {
+    "timestamp": "2026-01-01 23:59:59",
+    "location": "Downtown",
+    "vehicle_count": 180,
+    "avg_speed_kmh": 60,
+    "congestion_level": "Low",
+    "road_type": "Urban",
+    "direction": "South"
+  },
+  {
+    "timestamp": "2026-01-02 00:00:00",
+    "location": "Airport",
+    "vehicle_count": 95,
+    "avg_speed_kmh": 68,
+    "congestion_level": "Low",
+    "road_type": "Highway",
+    "direction": "East"
+  },
+  {
+    "timestamp": "2026-01-02 04:00:00",
+    "location": "Highway",
+    "vehicle_count": 75,
+    "avg_speed_kmh": 72,
+    "congestion_level": "Low",
+    "road_type": "Highway",
+    "direction": "West"
+  },
+  {
+    "timestamp": "2026-01-02 08:00:00",
+    "location": "City Center",
+    "vehicle_count": 420,
+    "avg_speed_kmh": 32,
+    "congestion_level": "High",
+    "road_type": "Urban",
+    "direction": "North"
+  },
+  {
+    "timestamp": "2026-01-02 12:00:00",
+    "location": "Downtown",
+    "vehicle_count": 390,
+    "avg_speed_kmh": 38,
+    "congestion_level": "Medium",
+    "road_type": "Urban",
+    "direction": "East"
+  },
+  {
+    "timestamp": "2026-01-02 16:00:00",
+    "location": "Highway",
+    "vehicle_count": 480,
+    "avg_speed_kmh": 28,
+    "congestion_level": "High",
+    "road_type": "Highway",
+    "direction": "South"
+  },
+  {
+    "timestamp": "2026-01-02 20:00:00",
+    "location": "Suburbs",
+    "vehicle_count": 410,
+    "avg_speed_kmh": 43,
+    "congestion_level": "Medium",
+    "road_type": "Suburban",
+    "direction": "West"
+  },
+  {
+    "timestamp": "2026-01-02 23:59:59",
+    "location": "Airport",
+    "vehicle_count": 175,
+    "avg_speed_kmh": 62,
+    "congestion_level": "Low",
+    "road_type": "Highway",
+    "direction": "North"
+  },
+  {
+    "timestamp": "2026-01-03 00:00:00",
+    "location": "Downtown",
+    "vehicle_count": 110,
+    "avg_speed_kmh": 67,
+    "congestion_level": "Low",
+    "road_type": "Urban",
+    "direction": "South"
+  },
+  {
+    "timestamp": "2026-01-03 04:00:00",
+    "location": "City Center",
+    "vehicle_count": 85,
+    "avg_speed_kmh": 71,
+    "congestion_level": "Low",
+    "road_type": "Urban",
+    "direction": "East"
+  },
+  {
+    "timestamp": "2026-01-03 08:00:00",
+    "location": "Highway",
+    "vehicle_count": 440,
+    "avg_speed_kmh": 33,
+    "congestion_level": "High",
+    "road_type": "Highway",
+    "direction": "West"
+  },
+  {
+    "timestamp": "2026-01-03 12:00:00",
+    "location": "Suburbs",
+    "vehicle_count": 370,
+    "avg_speed_kmh": 41,
+    "congestion_level": "Medium",
+    "road_type": "Suburban",
+    "direction": "North"
+  },
+  {
+    "timestamp": "2026-01-03 16:00:00",
+    "location": "Highway",
+    "vehicle_count": 510,
+    "avg_speed_kmh": 29,
+    "congestion_level": "High",
+    "road_type": "Highway",
+    "direction": "South"
+  },
+  {
+    "timestamp": "2026-01-03 20:00:00",
+    "location": "Downtown",
+    "vehicle_count": 395,
+    "avg_speed_kmh": 44,
+    "congestion_level": "Medium",
+    "road_type": "Urban",
+    "direction": "East"
+  },
+  {
+    "timestamp": "2026-01-03 23:59:59",
+    "location": "Airport",
+    "vehicle_count": 170,
+    "avg_speed_kmh": 61,
+    "congestion_level": "Low",
+    "road_type": "Highway",
+    "direction": "West"
+  },
+  {
+    "timestamp": "2026-01-04 00:00:00",
+    "location": "City Center",
+    "vehicle_count": 125,
+    "avg_speed_kmh": 66,
+    "congestion_level": "Low",
+    "road_type": "Urban",
+    "direction": "North"
+  },
+  {
+    "timestamp": "2026-01-04 04:00:00",
+    "location": "Highway",
+    "vehicle_count": 78,
+    "avg_speed_kmh": 73,
+    "congestion_level": "Low",
+    "road_type": "Highway",
+    "direction": "East"
+  },
+  {
+    "timestamp": "2026-01-04 08:00:00",
+    "location": "Downtown",
+    "vehicle_count": 435,
+    "avg_speed_kmh": 34,
+    "congestion_level": "High",
+    "road_type": "Urban",
+    "direction": "South"
+  },
+  {
+    "timestamp": "2026-01-04 12:00:00",
+    "location": "Highway",
+    "vehicle_count": 375,
+    "avg_speed_kmh": 39,
+    "congestion_level": "Medium",
+    "road_type": "Highway",
+    "direction": "West"
+  },
+  {
+    "timestamp": "2026-01-04 16:00:00",
+    "location": "City Center",
+    "vehicle_count": 495,
+    "avg_speed_kmh": 31,
+    "congestion_level": "High",
+    "road_type": "Urban",
+    "direction": "North"
+  },
+  {
+    "timestamp": "2026-01-04 20:00:00",
+    "location": "Suburbs",
+    "vehicle_count": 405,
+    "avg_speed_kmh": 42,
+    "congestion_level": "Medium",
+    "road_type": "Suburban",
+    "direction": "East"
+  },
+  {
+    "timestamp": "2026-01-04 23:59:59",
+    "location": "Downtown",
+    "vehicle_count": 185,
+    "avg_speed_kmh": 59,
+    "congestion_level": "Low",
+    "road_type": "Urban",
+    "direction": "South"
+  },
+  {
+    "timestamp": "2026-01-05 00:00:00",
+    "location": "Airport",
+    "vehicle_count": 100,
+    "avg_speed_kmh": 69,
+    "congestion_level": "Low",
+    "road_type": "Highway",
+    "direction": "West"
+  },
+  {
+    "timestamp": "2026-01-05 04:00:00",
+    "location": "Suburbs",
+    "vehicle_count": 72,
+    "avg_speed_kmh": 74,
+    "congestion_level": "Low",
+    "road_type": "Suburban",
+    "direction": "North"
+  },
+  {
+    "timestamp": "2026-01-05 08:00:00",
+    "location": "Highway",
+    "vehicle_count": 445,
+    "avg_speed_kmh": 32,
+    "congestion_level": "High",
+    "road_type": "Highway",
+    "direction": "East"
+  },
+  {
+    "timestamp": "2026-01-05 12:00:00",
+    "location": "Downtown",
+    "vehicle_count": 385,
+    "avg_speed_kmh": 37,
+    "congestion_level": "Medium",
+    "road_type": "Urban",
+    "direction": "South"
+  },
+  {
+    "timestamp": "2026-01-05 16:00:00",
+    "location": "City Center",
+    "vehicle_count": 505,
+    "avg_speed_kmh": 27,
+    "congestion_level": "High",
+    "road_type": "Urban",
+    "direction": "West"
+  },
+  {
+    "timestamp": "2026-01-05 20:00:00",
+    "location": "Highway",
+    "vehicle_count": 415,
+    "avg_speed_kmh": 41,
+    "congestion_level": "Medium",
+    "road_type": "Highway",
+    "direction": "North"
+  },
+  {
+    "timestamp": "2026-01-05 23:59:59",
+    "location": "Airport",
+    "vehicle_count": 165,
+    "avg_speed_kmh": 63,
+    "congestion_level": "Low",
+    "road_type": "Highway",
+    "direction": "East"
+  },
+  {
+    "timestamp": "2026-01-06 00:00:00",
+    "location": "City Center",
+    "vehicle_count": 115,
+    "avg_speed_kmh": 68,
+    "congestion_level": "Low",
+    "road_type": "Urban",
+    "direction": "South"
+  },
+  {
+    "timestamp": "2026-01-06 04:00:00",
+    "location": "Downtown",
+    "vehicle_count": 82,
+    "avg_speed_kmh": 70,
+    "congestion_level": "Low",
+    "road_type": "Urban",
+    "direction": "West"
+  },
+  {
+    "timestamp": "2026-01-06 08:00:00",
+    "location": "Highway",
+    "vehicle_count": 455,
+    "avg_speed_kmh": 30,
+    "congestion_level": "High",
+    "road_type": "Highway",
+    "direction": "North"
+  },
+  {
+    "timestamp": "2026-01-06 12:00:00",
+    "location": "Suburbs",
+    "vehicle_count": 395,
+    "avg_speed_kmh": 36,
+    "congestion_level": "Medium",
+    "road_type": "Suburban",
+    "direction": "East"
+  },
+  {
+    "timestamp": "2026-01-06 16:00:00",
+    "location": "Highway",
+    "vehicle_count": 515,
+    "avg_speed_kmh": 26,
+    "congestion_level": "High",
+    "road_type": "Highway",
+    "direction": "South"
+  },
+  {
+    "timestamp": "2026-01-06 20:00:00",
+    "location": "City Center",
+    "vehicle_count": 425,
+    "avg_speed_kmh": 40,
+    "congestion_level": "Medium",
+    "road_type": "Urban",
+    "direction": "West"
+  },
+  {
+    "timestamp": "2026-01-06 23:59:59",
+    "location": "Downtown",
+    "vehicle_count": 190,
+    "avg_speed_kmh": 58,
+    "congestion_level": "Low",
+    "road_type": "Urban",
+    "direction": "North"
+  },
+  {
+    "timestamp": "2026-01-07 00:00:00",
+    "location": "Airport",
+    "vehicle_count": 105,
+    "avg_speed_kmh": 67,
+    "congestion_level": "Low",
+    "road_type": "Highway",
+    "direction": "East"
+  },
+  {
+    "timestamp": "2026-01-07 04:00:00",
+    "location": "Highway",
+    "vehicle_count": 88,
+    "avg_speed_kmh": 71,
+    "congestion_level": "Low",
+    "road_type": "Highway",
+    "direction": "South"
+  },
+  {
+    "timestamp": "2026-01-07 08:00:00",
+    "location": "City Center",
+    "vehicle_count": 460,
+    "avg_speed_kmh": 31,
+    "congestion_level": "High",
+    "road_type": "Urban",
+    "direction": "West"
+  },
+  {
+    "timestamp": "2026-01-07 12:00:00",
+    "location": "Downtown",
+    "vehicle_count": 400,
+    "avg_speed_kmh": 35,
+    "congestion_level": "Medium",
+    "road_type": "Urban",
+    "direction": "North"
+  },
+  {
+    "timestamp": "2026-01-07 16:00:00",
+    "location": "Highway",
+    "vehicle_count": 525,
+    "avg_speed_kmh": 25,
+    "congestion_level": "High",
+    "road_type": "Highway",
+    "direction": "East"
+  },
+  {
+    "timestamp": "2026-01-07 20:00:00",
+    "location": "Suburbs",
+    "vehicle_count": 430,
+    "avg_speed_kmh": 39,
+    "congestion_level": "Medium",
+    "road_type": "Suburban",
+    "direction": "South"
+  },
+  {
+    "timestamp": "2026-01-07 23:59:59",
+    "location": "Airport",
+    "vehicle_count": 195,
+    "avg_speed_kmh": 57,
+    "congestion_level": "Low",
+    "road_type": "Highway",
+    "direction": "West"
+  },
+  {
+    "timestamp": "2026-01-08 00:00:00",
+    "location": "City Center",
+    "vehicle_count": 130,
+    "avg_speed_kmh": 65,
+    "congestion_level": "Low",
+    "road_type": "Urban",
+    "direction": "North"
+  },
+  {
+    "timestamp": "2026-01-08 04:00:00",
+    "location": "Suburbs",
+    "vehicle_count": 90,
+    "avg_speed_kmh": 72,
+    "congestion_level": "Low",
+    "road_type": "Suburban",
+    "direction": "East"
+  },
+  {
+    "timestamp": "2026-01-08 08:00:00",
+    "location": "Highway",
+    "vehicle_count": 470,
+    "avg_speed_kmh": 29,
+    "congestion_level": "High",
+    "road_type": "Highway",
+    "direction": "South"
+  },
+  {
+    "timestamp": "2026-01-08 12:00:00",
+    "location": "City Center",
+    "vehicle_count": 410,
+    "avg_speed_kmh": 33,
+    "congestion_level": "Medium",
+    "road_type": "Urban",
+    "direction": "West"
+  },
+  {
+    "timestamp": "2026-01-08 16:00:00",
+    "location": "Downtown",
+    "vehicle_count": 530,
+    "avg_speed_kmh": 24,
+    "congestion_level": "High",
+    "road_type": "Urban",
+    "direction": "North"
+  },
+  {
+    "timestamp": "2026-01-08 20:00:00",
+    "location": "Highway",
+    "vehicle_count": 435,
+    "avg_speed_kmh": 38,
+    "congestion_level": "Medium",
+    "road_type": "Highway",
+    "direction": "East"
+  },
+  {
+    "timestamp": "2026-01-08 23:59:59",
+    "location": "Airport",
+    "vehicle_count": 200,
+    "avg_speed_kmh": 56,
+    "congestion_level": "Low",
+    "road_type": "Highway",
+    "direction": "South"
+  },
+  {
+    "timestamp": "2026-01-09 00:00:00",
+    "location": "Downtown",
+    "vehicle_count": 135,
+    "avg_speed_kmh": 64,
+    "congestion_level": "Low",
+    "road_type": "Urban",
+    "direction": "West"
+  },
+  {
+    "timestamp": "2026-01-09 04:00:00",
+    "location": "Highway",
+    "vehicle_count": 92,
+    "avg_speed_kmh": 73,
+    "congestion_level": "Low",
+    "road_type": "Highway",
+    "direction": "North"
+  },
+  {
+    "timestamp": "2026-01-09 08:00:00",
+    "location": "City Center",
+    "vehicle_count": 475,
+    "avg_speed_kmh": 28,
+    "congestion_level": "High",
+    "road_type": "Urban",
+    "direction": "East"
+  },
+  {
+    "timestamp": "2026-01-09 12:00:00",
+    "location": "Suburbs",
+    "vehicle_count": 420,
+    "avg_speed_kmh": 32,
+    "congestion_level": "Medium",
+    "road_type": "Suburban",
+    "direction": "South"
+  },
+  {
+    "timestamp": "2026-01-09 16:00:00",
+    "location": "Highway",
+    "vehicle_count": 535,
+    "avg_speed_kmh": 23,
+    "congestion_level": "High",
+    "road_type": "Highway",
+    "direction": "West"
+  },
+  {
+    "timestamp": "2026-01-09 20:00:00",
+    "location": "Downtown",
+    "vehicle_count": 440,
+    "avg_speed_kmh": 37,
+    "congestion_level": "Medium",
+    "road_type": "Urban",
+    "direction": "North"
+  },
+  {
+    "timestamp": "2026-01-09 23:59:59",
+    "location": "City Center",
+    "vehicle_count": 205,
+    "avg_speed_kmh": 55,
+    "congestion_level": "Low",
+    "road_type": "Urban",
+    "direction": "East"
+  },
+  {
+    "timestamp": "2026-01-10 00:00:00",
+    "location": "Airport",
+    "vehicle_count": 140,
+    "avg_speed_kmh": 63,
+    "congestion_level": "Low",
+    "road_type": "Highway",
+    "direction": "South"
+  },
+  {
+    "timestamp": "2026-01-10 04:00:00",
+    "location": "Downtown",
+    "vehicle_count": 95,
+    "avg_speed_kmh": 74,
+    "congestion_level": "Low",
+    "road_type": "Urban",
+    "direction": "West"
+  },
+  {
+    "timestamp": "2026-01-10 08:00:00",
+    "location": "Highway",
+    "vehicle_count": 480,
+    "avg_speed_kmh": 27,
+    "congestion_level": "High",
+    "road_type": "Highway",
+    "direction": "North"
+  },
+  {
+    "timestamp": "2026-01-10 12:00:00",
+    "location": "City Center",
+    "vehicle_count": 425,
+    "avg_speed_kmh": 31,
+    "congestion_level": "Medium",
+    "road_type": "Urban",
+    "direction": "East"
+  },
+  {
+    "timestamp": "2026-01-10 16:00:00",
+    "location": "Suburbs",
+    "vehicle_count": 540,
+    "avg_speed_kmh": 22,
+    "congestion_level": "High",
+    "road_type": "Suburban",
+    "direction": "South"
+  },
+  {
+    "timestamp": "2026-01-10 20:00:00",
+    "location": "Highway",
+    "vehicle_count": 445,
+    "avg_speed_kmh": 36,
+    "congestion_level": "Medium",
+    "road_type": "Highway",
+    "direction": "West"
+  },
+  {
+    "timestamp": "2026-01-10 23:59:59",
+    "location": "Airport",
+    "vehicle_count": 210,
+    "avg_speed_kmh": 54,
+    "congestion_level": "Low",
+    "road_type": "Highway",
+    "direction": "North"
+  }
+]

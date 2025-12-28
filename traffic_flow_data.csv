@@ -1,0 +1,79 @@
+# Traffic Flow Dataset
+# Project: Traffic Flow Dataset
+# Website: https://rskworld.in
+# Contact: help@rskworld.in, support@rskworld.in
+# Phone: +91 93305 39277
+# Founder: Molla Sameer
+# Designer & Tester: Rima Khatun
+timestamp,location,vehicle_count,avg_speed_kmh,congestion_level,road_type,direction
+2026-01-01 00:00:00,Downtown,120,65,Low,Urban,North
+2026-01-01 04:00:00,Downtown,80,70,Low,Urban,North
+2026-01-01 08:00:00,Highway,450,35,High,Highway,East
+2026-01-01 12:00:00,City Center,380,40,Medium,Urban,South
+2026-01-01 16:00:00,Highway,520,30,High,Highway,West
+2026-01-01 20:00:00,Suburbs,400,45,Medium,Suburban,North
+2026-01-01 23:59:59,Downtown,180,60,Low,Urban,South
+2026-01-02 00:00:00,Airport,95,68,Low,Highway,East
+2026-01-02 04:00:00,Highway,75,72,Low,Highway,West
+2026-01-02 08:00:00,City Center,420,32,High,Urban,North
+2026-01-02 12:00:00,Downtown,390,38,Medium,Urban,East
+2026-01-02 16:00:00,Highway,480,28,High,Highway,South
+2026-01-02 20:00:00,Suburbs,410,43,Medium,Suburban,West
+2026-01-02 23:59:59,Airport,175,62,Low,Highway,North
+2026-01-03 00:00:00,Downtown,110,67,Low,Urban,South
+2026-01-03 04:00:00,City Center,85,71,Low,Urban,East
+2026-01-03 08:00:00,Highway,440,33,High,Highway,West
+2026-01-03 12:00:00,Suburbs,370,41,Medium,Suburban,North
+2026-01-03 16:00:00,Highway,510,29,High,Highway,South
+2026-01-03 20:00:00,Downtown,395,44,Medium,Urban,East
+2026-01-03 23:59:59,Airport,170,61,Low,Highway,West
+2026-01-04 00:00:00,City Center,125,66,Low,Urban,North
+2026-01-04 04:00:00,Highway,78,73,Low,Highway,East
+2026-01-04 08:00:00,Downtown,435,34,High,Urban,South
+2026-01-04 12:00:00,Highway,375,39,Medium,Highway,West
+2026-01-04 16:00:00,City Center,495,31,High,Urban,North
+2026-01-04 20:00:00,Suburbs,405,42,Medium,Suburban,East
+2026-01-04 23:59:59,Downtown,185,59,Low,Urban,South
+2026-01-05 00:00:00,Airport,100,69,Low,Highway,West
+2026-01-05 04:00:00,Suburbs,72,74,Low,Suburban,North
+2026-01-05 08:00:00,Highway,445,32,High,Highway,East
+2026-01-05 12:00:00,Downtown,385,37,Medium,Urban,South
+2026-01-05 16:00:00,City Center,505,27,High,Urban,West
+2026-01-05 20:00:00,Highway,415,41,Medium,Highway,North
+2026-01-05 23:59:59,Airport,165,63,Low,Highway,East
+2026-01-06 00:00:00,City Center,115,68,Low,Urban,South
+2026-01-06 04:00:00,Downtown,82,70,Low,Urban,West
+2026-01-06 08:00:00,Highway,455,30,High,Highway,North
+2026-01-06 12:00:00,Suburbs,395,36,Medium,Suburban,East
+2026-01-06 16:00:00,Highway,515,26,High,Highway,South
+2026-01-06 20:00:00,City Center,425,40,Medium,Urban,West
+2026-01-06 23:59:59,Downtown,190,58,Low,Urban,North
+2026-01-07 00:00:00,Airport,105,67,Low,Highway,East
+2026-01-07 04:00:00,Highway,88,71,Low,Highway,South
+2026-01-07 08:00:00,City Center,460,31,High,Urban,West
+2026-01-07 12:00:00,Downtown,400,35,Medium,Urban,North
+2026-01-07 16:00:00,Highway,525,25,High,Highway,East
+2026-01-07 20:00:00,Suburbs,430,39,Medium,Suburban,South
+2026-01-07 23:59:59,Airport,195,57,Low,Highway,West
+2026-01-08 00:00:00,City Center,130,65,Low,Urban,North
+2026-01-08 04:00:00,Suburbs,90,72,Low,Suburban,East
+2026-01-08 08:00:00,Highway,470,29,High,Highway,South
+2026-01-08 12:00:00,City Center,410,33,Medium,Urban,West
+2026-01-08 16:00:00,Downtown,530,24,High,Urban,North
+2026-01-08 20:00:00,Highway,435,38,Medium,Highway,East
+2026-01-08 23:59:59,Airport,200,56,Low,Highway,South
+2026-01-09 00:00:00,Downtown,135,64,Low,Urban,West
+2026-01-09 04:00:00,Highway,92,73,Low,Highway,North
+2026-01-09 08:00:00,City Center,475,28,High,Urban,East
+2026-01-09 12:00:00,Suburbs,420,32,Medium,Suburban,South
+2026-01-09 16:00:00,Highway,535,23,High,Highway,West
+2026-01-09 20:00:00,Downtown,440,37,Medium,Urban,North
+2026-01-09 23:59:59,City Center,205,55,Low,Urban,East
+2026-01-10 00:00:00,Airport,140,63,Low,Highway,South
+2026-01-10 04:00:00,Downtown,95,74,Low,Urban,West
+2026-01-10 08:00:00,Highway,480,27,High,Highway,North
+2026-01-10 12:00:00,City Center,425,31,Medium,Urban,East
+2026-01-10 16:00:00,Suburbs,540,22,High,Suburban,South
+2026-01-10 20:00:00,Highway,445,36,Medium,Highway,West
+2026-01-10 23:59:59,Airport,210,54,Low,Highway,North
+

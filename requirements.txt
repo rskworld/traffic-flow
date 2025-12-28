@@ -1,0 +1,13 @@
+# Traffic Flow Dataset - Python Dependencies
+# Project: Traffic Flow Dataset
+# Website: https://rskworld.in
+# Contact: help@rskworld.in, support@rskworld.in
+# Phone: +91 93305 39277
+# Founder: Molla Sameer
+# Designer & Tester: Rima Khatun
+
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
